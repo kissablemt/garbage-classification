@@ -8,6 +8,6 @@
 5、kaggle_submit.py最终kaggle上的提交源码。
 6、history为历史模型的History(loss,acc)
 
-# kaggle notebook：https://www.kaggle.com/lolitawu/model
+## kaggle notebook：https://www.kaggle.com/lolitawu/model
 
-# 数据集下载地址：https://www.kaggle.com/asdasdasasdas/garbage-classification
+## 数据集下载地址：https://www.kaggle.com/asdasdasasdas/garbage-classification
